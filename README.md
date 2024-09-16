@@ -7,9 +7,8 @@ Software Developer
 A motivated graduate developer with a growth mindset. An active problem solver, eager to contribute to noteworthy projects and deliver exceptional results to also enhance my skills.
 
 *   🌍  I'm based in London
-*   🖥️  See my portfolio at [My Website](http://josephsearle.github.io/personal-website/)
 *   ✉️  You can contact me at [JosephWilliamSearle@gmail.com](mailto:JosephWilliamSearle@gmail.com)
-*   🧠  I'm learning Architectural Thinking 
+*   🧠  I'm learning Generative AI 
 
 ### Skills 
 <p align="left">
